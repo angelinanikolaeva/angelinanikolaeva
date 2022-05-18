@@ -1,10 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Angelina</h1>
-<h3 align="center">An extremely passionate and driven frontend developer from Russia</h3>
+<h3 align="center">An extremely passionate and driven frontend developer</h3>
 
-- 🔭 I’m currently working on React and JS apps
-
-- 🌱 I’m currently learning **ReactJS**
+- 🔭 I’m currently working on **VueJS** and **NuxtJS** apps
+- 
+- 💻 I have experience in **ReactJS** 
+- 
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **nikolaeva.dev@gmail.com**
 
