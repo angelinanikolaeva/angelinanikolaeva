@@ -3,9 +3,9 @@
 <h3 align="center">An extremely passionate and driven frontend developer</h3>
 
 - 🔭 I’m currently working on **VueJS** and **NuxtJS** apps
-- 
+ 
 - 💻 I have experience in **ReactJS** 
-- 
+
 - 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **nikolaeva.dev@gmail.com**
